@@ -1,0 +1,11 @@
+{
+  "AppName": "travium-go",
+  "ServerName": "hexodes",
+  "RunMode": "dev",
+  "HTTPAddr": "127.0.0.1",
+  "HTTPPort": "8080",
+  "AutoRender": "true",
+  "RecoverPanic": "false",
+  "ViewsPath": "dashboard/views",
+  "StaticDir": "css:dashboard/static/css fonts:dashboard/static/fonts img:dashboard/static/img js:dashboard/static/js"
+}
